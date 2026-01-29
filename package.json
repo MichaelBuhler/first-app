@@ -1,0 +1,8 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "My first app made with Cursor",
+  "license": "UNLICENSED",
+  "author": "Michael Buhler",
+  "type": "module"
+}
